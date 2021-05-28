@@ -8,9 +8,11 @@
 * Nos muestra las notas del módulo
 * y podemos buscar los suspensos y cuantos sobresalientes
 * se han obtenido
+* PARA LA MODIFICACIÓN DEL EJERCICIO 2.2 MODIFICAMOS LA
+* VERSION A 2.0
 *
 * @author 	Juan Manuel Marín Arellano
-* @version 	1.0
+* @version 	2.0
 * @copyright	Todos los derechos reservados (2021)
 * @todo 	pasar la funcionalidad con arrays a base da datos
 *
